@@ -19,7 +19,6 @@
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>      
-<img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.svg" width="50px" height="50px"/>      
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
