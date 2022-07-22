@@ -1,14 +1,5 @@
-<h1 align="left">Hello,  I'm ETO ✨.</h1>
-<h4 align="left">Welcome to my GitHub Profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px">.</h4>
+## Hello,  I'm ETO ✨. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
-<br>
-<h5>Discord: </h5>
-
-<img src="https://discord.c99.nl/widget/theme-2/608568551732805652.png" align="center">
-      <br>
-  <img src="https://komarev.com/ghpvc/?username=e0o&color=1c1c1c" >
-
-<br>
 
 
 <h1 align="left">🧨 Languages, Technollogies and Libraries That I Know/Use: </h1>
@@ -33,9 +24,20 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </span>
 <br>
 
-
-<h1 align="left">� My Github's Stats: </h1> 
+### GitHub Stats 🌟
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
+---
+<img src="https://activity-graph.herokuapp.com/graph?username=e0o&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=e0o&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" align="left">
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0o&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/e0o?tab=followers">
+  <img src="https://img.shields.io/github/followers/e0o">
+</a>
+<a href="https://github.com/e0o">
+   <img src="https://komarev.com/ghpvc/?username=e0o">
+</a>
 
+---
+### Contact Me ✨
+![Discord](https://discord.c99.nl/widget/theme-1/608568551732805652.png)
+---
