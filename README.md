@@ -25,9 +25,9 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <br>
 
 ### GitHub Stats 🌟
-![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
+![ETO's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=e0o&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=e0o&custom_title=ETO%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0o&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <a href="https://github.com/e0o?tab=followers">
