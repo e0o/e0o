@@ -1,8 +1,12 @@
 ## Hello,  I'm ETO ✨. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
 
+---
 
 <h1 align="left">🧨 Languages, Technollogies and Libraries That I Know/Use: </h1>
+
+---
+
 <span align="center" >
 <img src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" />
@@ -24,11 +28,13 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </span>
 <br>
 
+---
+
 ### GitHub Stats 🌟
 ![ETO's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
+
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=e0o&custom_title=ETO%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0o&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <a href="https://github.com/e0o?tab=followers">
   <img src="https://img.shields.io/github/followers/e0o">
@@ -38,6 +44,8 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </a>
 
 ---
+
 ### Contact Me ✨
-![Discord](https://discord.c99.nl/widget/theme-1/608568551732805652.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/608568551732805652)](https://discord.com/users/608568551732805652)
+
 ---
