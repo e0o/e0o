@@ -1,4 +1,4 @@
-## Hello,  I'm ETO ✨. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
+## Hello,  I'm RwS ✨. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
 
 ---
@@ -31,7 +31,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 ---
 
 ### GitHub Stats 🌟
-![ETO's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
+![RwS's github stats](https://github-readme-stats.vercel.app/api?username=e0o&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=e0o&theme=algolia&count-private=true&v=2">
 
 ---
 
